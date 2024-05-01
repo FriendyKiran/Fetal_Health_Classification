@@ -1,0 +1,12 @@
+Abstract
+Introduction
+Methodology
+Real Data
+Results
+Conclusion
+
+
+-- Submit a code file.
+-- Upload the data in code file.
+-- Should be able to run the model and produce reproducible results.
+
